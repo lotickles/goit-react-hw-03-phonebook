@@ -1,0 +1,15 @@
+.phonebook {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  border: 1px solid grey;
+}
+.phonebook label {
+  flex-direction: column;
+  display: flex;
+  margin-bottom: 10px;
+}
+.phonebook button {
+  display: block;
+}

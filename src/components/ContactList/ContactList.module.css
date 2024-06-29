@@ -1,0 +1,12 @@
+.h2 {
+  display: flex;
+  justify-content: center;
+}
+.contactList {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+  /* padding: 10px; */
+  /* border: 1px solid grey; */
+}
